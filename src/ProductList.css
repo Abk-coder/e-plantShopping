@@ -140,7 +140,7 @@ body {
     text-decoration: none;
 }
 .tag {
-    width: 400px;
+    width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -157,7 +157,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 650px;
+    width: auto;
     font-size: 19px;
 }
 .cart{
